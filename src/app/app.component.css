@@ -1,0 +1,96 @@
+body {
+    font-family: "Lato", sans-serif;
+    transition: background-color .5s;
+  }
+  
+  .header {
+    background-color: pink;
+    padding: 10px;
+  }
+  
+  #main {
+    transition: margin-left .5s;
+    padding: 16px;
+  }
+  
+  .search-container {
+    float: right;
+  }
+  
+  .search-container input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+  
+  .search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ccc;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .search-container button:hover {
+    background: #ddd;
+  }
+  
+  .container3 {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center; 
+    background-image: url('../../src/assets/images/logo.jpg');
+    background-color: pink;
+  }
+
+  .container1 {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+    background-color: pink;
+  }
+  .container4 {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center; 
+    background-color: pink;
+  }
+
+
+  body {
+        font-family: 'Lucida Handwriting', cursive;
+        background-color: purple;
+  }
+  
+
+  .mySlides {
+    display: inline-block; /* Display slides inline */
+    width: 20%; /* Set width to half of the container */
+    margin: 20px;
+  }
+
+  /* Additional styling for buttons */
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+    .container {
+        font-family: 'Lucida Handwriting', cursive;
+    }
+  
